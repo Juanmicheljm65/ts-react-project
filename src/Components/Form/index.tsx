@@ -38,12 +38,13 @@ const Form = (props: any) => {
           name="tempo"
           id="tempo"
           min="00:00:00"
-          max="10:00:00"
+          max="23:59:59"
           required
         ></input>
       </div>
-      <Button type="submit">Add</Button>
+      <Button type="submit">Addi</Button>
     </form>
+
   );
 };
 
