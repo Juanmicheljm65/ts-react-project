@@ -42,7 +42,7 @@ const Form = (props: any) => {
           required
         ></input>
       </div>
-      <Button type="submit">Addi</Button>
+      <Button type="submit">Add</Button>
     </form>
 
   );
